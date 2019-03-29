@@ -7,4 +7,3 @@ elif number > 50 and number < 100:
 else:
 	print("number is greater than 100")
 
-print("hello")
