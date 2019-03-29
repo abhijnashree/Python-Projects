@@ -6,3 +6,5 @@ elif number > 50 and number < 100:
 	print("number is between 50 and 100")
 else:
 	print("number is greater than 100")
+
+print("hello")
